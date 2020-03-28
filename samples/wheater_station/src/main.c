@@ -68,4 +68,3 @@ void main(void)
 		k_sleep(333);
 	}
 }
-
